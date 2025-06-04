@@ -22,7 +22,6 @@ Projeto criado para fins de estudo e prática de desenvolvimento backend com .NE
 - **DTOs para abstração entre camadas**
 - **Injeção de dependência**
 - **Swagger para documentação da API**
-- **xUnit + Testcontainers (para testes de integração - opcional)**
 
 ---
 
